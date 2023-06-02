@@ -1,5 +1,5 @@
 # teste-de-velocidade
-Api criada em python para testar parâmetros da sua internet (Donwload, Upload e pin). 
+Api criada em python para testar parâmetros da sua internet (Donwload, Upload e ping). 
 
 # Como usar:
 A api foi construida para ser simples e objetiva.
@@ -16,4 +16,4 @@ A api foi construida para ser simples e objetiva.
 
 6 - Para descobrir o ping, basta usar o link localhost:5000/ping
 
-7 - Ao acessa as rotas, será retornado um json informando o resultado encontrado.
+7 - Ao acessar as rotas, será retornado um json informando o resultado encontrado.
