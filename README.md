@@ -17,3 +17,6 @@ A api foi construida para ser simples e objetiva.
 6 - Para descobrir o ping, basta usar o link localhost:5000/ping
 
 7 - Ao acessar as rotas, será retornado um json informando o resultado encontrado.
+
+
+OBS: Irá demorar alguns segundos para a rota retornar o resultado, isso ocorre porque nesse tempo estará sendo feito o teste de velocidade.
